@@ -25,6 +25,8 @@ your zsh is setup properly. I have tested with the grml-zsh configuration that
 is [available on Github](https://github.com/grml/grml-etc-core/) and on the
 [grml homepage](http://grml.org/zsh/).
 
+Arch Linux users can use [aptly-zsh-completion-git](https://aur.archlinux.org/packages/aptly-zsh-completion-git/) AUR package.
+
 ## Compatibility
 
 The command line completion was developed based on the manpage of aptly 1.2.0
